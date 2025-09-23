@@ -1,6 +1,14 @@
 body {
-    background-color: darkmagenta;
-    color:azure;
+    background-color: darkmagenta; /* cor de fundo */
+    color:azure; /*cor da letra */
+    margin: 0px; /* espaço antes da borda */
+}
+
+header {
+    border-bottom: solid 2px white; 
+    padding: 20px; /* espaçamento depois da borda e antes do conteúdo */
+    font-size: 32px;
+    color: aliceblue;
 }
 
 h1 {
